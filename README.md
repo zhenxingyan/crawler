@@ -1,2 +1,2 @@
 # crawler
-web spider project
+web spider project for discount web
